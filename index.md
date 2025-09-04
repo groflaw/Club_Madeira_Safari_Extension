@@ -26,7 +26,7 @@ Safari shows a notice like “read or modify on amazon.co.uk” because the exte
 - **Uninstall / Reinstall (Mac):** Safari → Settings → **Extensions** → select the extension → **Uninstall**; then reinstall from the App Store.
 
 ## Privacy
-We don’t collect personal data. See our **[Privacy Policy](<link-to-your-GitHub-privacy-policy.md>)**.
+We don’t collect personal data. See our **[Privacy Policy](https://groflaw.github.io/Club_Madeira_Safari_Extension/Privacy%20Policy.html)**.
 
 ## Changelog
 - 1.0.0 — Initial release.
